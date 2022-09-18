@@ -1,1 +1,1 @@
-# git-practice
+# Daily DSA Practice
